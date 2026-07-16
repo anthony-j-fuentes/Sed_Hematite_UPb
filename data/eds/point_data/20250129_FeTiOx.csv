@@ -1,0 +1,869 @@
+﻿Hematite_Elba_01,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,31.77,0.14587,29.37,0.06,59.21,,,,Fayalite,No,12/18/2024 21:31
+Fe,EDS,K series,69.23,0.62933,70.63,0.06,40.79,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,100,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Hematite_Elba_02,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,31.77,0.14591,29.39,0.06,59.22,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,0.05,0.00025,0.05,0.01,0.06,,,,Forsterite,No,12/9/2024 20:00
+Fe,EDS,K series,69.16,0.62869,70.56,0.06,40.72,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,100,,100,,,,,,
+,,,,,,,,,,,,,
+Illmentite_01,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,12.02,0.05518,32.01,0.14,61.41,,,,Fayalite,No,12/18/2024 21:31
+Ti,EDS,K series,27.78,0.25551,26.82,0.05,17.19,,,,TiO2,No,12/9/2024 20:22
+Mn,EDS,K series,3.11,0.0294,3.43,0.03,1.92,,,,MnO,No,12/9/2024 20:20
+Fe,EDS,K series,34.12,0.31019,35.05,0.08,19.27,,,,Fayalite,No,12/18/2024 21:31
+Nb,EDS,L series,0.5,0.00496,0.66,0.04,0.22,,,,Nb,Yes,
+Total,,,,,97.97,,100,,,,,,
+,,,,,,,,,,,,,
+Illmentite_02,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,11.98,0.055,32.15,0.14,61.44,,,,Fayalite,No,12/18/2024 21:31
+Ti,EDS,K series,28.13,0.25876,27.17,0.05,17.34,,,,TiO2,No,12/9/2024 20:22
+Mn,EDS,K series,3.14,0.02968,3.47,0.03,1.93,,,,MnO,No,12/9/2024 20:20
+Fe,EDS,K series,33.87,0.30792,34.82,0.08,19.06,,,,Fayalite,No,12/18/2024 21:31
+Nb,EDS,L series,0.51,0.00506,0.67,0.04,0.22,,,,Nb,Yes,
+Total,,,,,98.28,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Magnetite_oxpuck_01,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,28.79,0.1322,25.85,0.07,56.5,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.11,0.00063,0.18,0.02,0.24,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,0.06,0.00033,0.07,0.01,0.08,,,,Forsterite,No,12/9/2024 20:00
+Ti,EDS,K series,0.07,0.00066,0.07,0.01,0.05,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,71.24,0.64758,68.89,0.1,43.13,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,95.06,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Magnetite_oxpuck_02,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,29.01,0.13324,26,0.07,56.66,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.11,0.00061,0.18,0.02,0.23,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,0.06,0.00033,0.07,0.01,0.08,,,,Forsterite,No,12/9/2024 20:00
+Ti,EDS,K series,0.05,0.00042,0.04,0.01,0.03,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,71.2,0.64718,68.87,0.1,43,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,95.15,,100,,,,,,
+,,,,,,,,,,,,,
+Goethite_01,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,41.3,0.18967,35.95,0.07,68.26,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.11,0.0006,0.16,0.01,0.19,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,0.38,0.00196,0.39,0.01,0.42,,,,Forsterite,No,12/9/2024 20:00
+P,EDS,K series,1.07,0.00851,1.4,0.02,1.38,,,,Chlorapatite,No,12/9/2024 20:13
+Ca,EDS,K series,0.14,0.0012,0.12,0.01,0.09,,,,Diopside,No,12/9/2024 20:18
+Fe,EDS,K series,54.8,0.49814,54.54,0.09,29.67,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,92.56,,100,,,,,,
+,,,,,,,,,,,,,
+Goethite_02,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,41.23,0.18935,35.88,0.07,68.16,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.13,0.00072,0.2,0.01,0.22,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,0.36,0.00188,0.37,0.01,0.4,,,,Forsterite,No,12/9/2024 20:00
+P,EDS,K series,1.08,0.00861,1.42,0.02,1.39,,,,Chlorapatite,No,12/9/2024 20:13
+Ca,EDS,K series,0.12,0.00103,0.11,0.01,0.08,,,,Diopside,No,12/9/2024 20:18
+Fe,EDS,K series,54.95,0.49948,54.67,0.09,29.75,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,92.65,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_01,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,29.89,0.13724,27.84,0.07,59.17,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.15,0.00082,0.23,0.02,0.29,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,0.64,0.00331,0.68,0.02,0.82,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.07,0.00053,0.06,0.01,0.05,,,,Orthoclase,No,12/9/2024 20:17
+Ti,EDS,K series,0.72,0.00664,0.67,0.02,0.47,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,66.04,0.60032,64.38,0.1,39.19,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,93.86,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_02,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,30.43,0.13973,26.99,0.07,58.85,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,0.18,0.00096,0.2,0.01,0.24,,,,Forsterite,No,12/9/2024 20:00
+Ti,EDS,K series,0.05,0.00047,0.05,0.01,0.03,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,67.38,0.61245,65.43,0.1,40.87,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,92.67,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_03,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,27.65,0.12698,24.84,0.07,55.7,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,0.2,0.00102,0.21,0.01,0.27,,,,Forsterite,No,12/9/2024 20:00
+Fe,EDS,K series,70.99,0.64532,68.55,0.1,44.03,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,93.6,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_04,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,28.87,0.13259,27.83,0.07,59.48,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.35,0.00201,0.56,0.02,0.71,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.1,0.0057,1.16,0.02,1.41,,,,Forsterite,No,12/9/2024 20:00
+P,EDS,K series,0.03,0.00023,0.04,0.01,0.04,,,,Chlorapatite,No,12/9/2024 20:13
+S,EDS,K series,0.05,0.00037,0.05,0.01,0.05,,,,Pentlandite,No,12/9/2024 20:09
+Ca,EDS,K series,0.15,0.00125,0.13,0.01,0.11,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,1.01,0.00931,0.94,0.02,0.67,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,62.59,0.56899,61.25,0.1,37.51,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,91.96,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_05,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,31.73,0.14572,30.27,0.08,61.32,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.63,0.00357,0.99,0.02,1.19,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.69,0.00876,1.77,0.02,2.04,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.07,0.0006,0.07,0.01,0.05,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,0.09,0.00081,0.08,0.01,0.07,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.73,0.00668,0.68,0.02,0.46,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.08,0.00076,0.07,0.01,0.05,,,,V,Yes,
+Fe,EDS,K series,60.97,0.55425,59.99,0.1,34.82,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,93.92,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_06,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,31.51,0.14468,29.7,0.07,61.37,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.63,0.00356,0.99,0.02,1.21,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.47,0.00764,1.55,0.02,1.82,,,,Forsterite,No,12/9/2024 20:00
+Ca,EDS,K series,0.06,0.00055,0.06,0.01,0.05,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.73,0.00671,0.68,0.02,0.47,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,60.27,0.54788,59.26,0.1,35.08,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,92.23,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_07,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,29.78,0.13674,29,0.07,59.27,,,,Fayalite,No,12/18/2024 21:31
+Mg,EDS,K series,0.77,0.00446,1.71,0.02,2.3,,,,Forsterite,No,12/9/2024 20:00
+Al,EDS,K series,0.88,0.00498,1.38,0.02,1.67,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,2.17,0.01127,2.29,0.02,2.67,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.06,0.00045,0.05,0.01,0.04,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,0.08,0.00067,0.07,0.01,0.06,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.61,0.00559,0.58,0.02,0.39,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.08,0.00082,0.08,0.01,0.05,,,,V,Yes,
+Fe,EDS,K series,58.09,0.52802,57.3,0.09,33.55,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,92.46,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_08,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,30.94,0.14209,29.43,0.07,60.51,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.26,0.00146,0.41,0.02,0.5,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,0.75,0.00389,0.79,0.02,0.93,,,,Forsterite,No,12/9/2024 20:00
+Ca,EDS,K series,0.07,0.00062,0.06,0.01,0.05,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,1.15,0.01057,1.07,0.02,0.73,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,64.64,0.58755,63.27,0.1,37.27,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,95.03,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_09,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,25.94,0.1191,26.37,0.07,58,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.73,0.00413,1.14,0.02,1.49,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,2.21,0.01144,2.31,0.02,2.9,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.72,0.00576,0.64,0.01,0.57,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,0.18,0.00152,0.16,0.01,0.14,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.71,0.00655,0.67,0.02,0.49,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.08,0.00076,0.07,0.01,0.05,,,,V,Yes,
+Fe,EDS,K series,58.81,0.5346,57.71,0.09,36.37,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,89.07,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_10,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,28.79,0.13222,27.83,0.07,58.72,,,,Fayalite,No,12/18/2024 21:31
+Mg,EDS,K series,0.55,0.00319,1.24,0.02,1.73,,,,Forsterite,No,12/9/2024 20:00
+Al,EDS,K series,0.69,0.00388,1.09,0.02,1.36,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.8,0.00934,1.91,0.02,2.29,,,,Forsterite,No,12/9/2024 20:00
+Ca,EDS,K series,0.1,0.00085,0.09,0.01,0.07,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.58,0.00533,0.54,0.01,0.38,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.11,0.00114,0.11,0.01,0.07,,,,V,Yes,
+Fe,EDS,K series,59.56,0.54143,58.53,0.09,35.37,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,91.34,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_11,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,31.19,0.14323,29.13,0.07,60.62,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.66,0.00372,1.04,0.02,1.28,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.39,0.0072,1.46,0.02,1.73,,,,Forsterite,No,12/9/2024 20:00
+Ca,EDS,K series,0.08,0.00065,0.07,0.01,0.06,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.37,0.00341,0.35,0.01,0.24,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.12,0.00123,0.12,0.01,0.08,,,,V,Yes,
+Fe,EDS,K series,61.54,0.55943,60.38,0.1,35.99,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,92.55,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_12,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,26.63,0.12227,25.98,0.07,57.26,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.37,0.00208,0.58,0.02,0.76,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,2.11,0.01094,2.22,0.02,2.79,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.13,0.001,0.11,0.01,0.1,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,0.07,0.00059,0.06,0.01,0.05,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.59,0.00541,0.55,0.01,0.4,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.13,0.00126,0.12,0.01,0.09,,,,V,Yes,
+Fe,EDS,K series,62.53,0.56839,61.06,0.1,38.55,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,90.69,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_13,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,24.89,0.1143,25.33,0.07,56.29,,,,Fayalite,No,12/18/2024 21:31
+Mg,EDS,K series,0.72,0.00419,1.62,0.02,2.37,,,,Forsterite,No,12/9/2024 20:00
+Al,EDS,K series,0.87,0.00494,1.38,0.02,1.82,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,2.18,0.0113,2.31,0.02,2.92,,,,Forsterite,No,12/9/2024 20:00
+Ca,EDS,K series,0.07,0.00063,0.06,0.01,0.06,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,1.17,0.0108,1.11,0.02,0.82,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,57.13,0.51931,56.12,0.09,35.73,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,87.92,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_14,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,30.99,0.14231,29.19,0.07,61,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.7,0.00396,1.1,0.02,1.36,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.74,0.00904,1.83,0.02,2.18,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.05,0.00037,0.04,0.01,0.03,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,0.07,0.00059,0.06,0.01,0.05,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.45,0.0041,0.42,0.01,0.29,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.08,0.00078,0.08,0.01,0.05,,,,V,Yes,
+Fe,EDS,K series,59.53,0.54113,58.53,0.09,35.04,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,91.25,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_15,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,25.5,0.11709,24.11,0.07,55.92,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.39,0.00219,0.62,0.02,0.86,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.02,0.0053,1.09,0.02,1.44,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.13,0.00104,0.11,0.01,0.11,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,0.05,0.00041,0.04,0.01,0.04,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.17,0.00157,0.16,0.01,0.12,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.18,0.00185,0.18,0.01,0.13,,,,V,Yes,
+Fe,EDS,K series,64.15,0.58313,62.27,0.1,41.38,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,88.59,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_16,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,38.46,0.17663,33.01,0.07,66.33,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.06,0.00032,0.09,0.01,0.11,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,0.76,0.00392,0.79,0.01,0.9,,,,Forsterite,No,12/9/2024 20:00
+P,EDS,K series,0.09,0.00071,0.12,0.01,0.12,,,,Chlorapatite,No,12/9/2024 20:13
+Fe,EDS,K series,57.18,0.51976,56.51,0.09,32.53,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,90.51,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_17,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,27.13,0.12458,28.54,0.08,59.69,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,1.16,0.00656,1.77,0.02,2.19,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,3.17,0.01642,3.28,0.02,3.91,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.58,0.00459,0.51,0.01,0.44,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,0.23,0.00195,0.2,0.01,0.17,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,1.25,0.01152,1.19,0.02,0.83,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,55.29,0.50255,54.69,0.09,32.77,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,90.19,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_18,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,28.47,0.13072,26.84,0.07,58.45,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.37,0.00208,0.59,0.02,0.76,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,0.82,0.00424,0.87,0.02,1.08,,,,Forsterite,No,12/9/2024 20:00
+Ca,EDS,K series,0.07,0.00056,0.06,0.01,0.05,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.48,0.00443,0.45,0.01,0.32,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.21,0.00214,0.21,0.01,0.14,,,,V,Yes,
+Fe,EDS,K series,64.45,0.5859,62.83,0.1,39.2,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,91.84,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_19,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,31.04,0.14253,30.3,0.08,60.8,,,,Fayalite,No,12/18/2024 21:31
+Mg,EDS,K series,0.46,0.00267,1.03,0.02,1.36,,,,Forsterite,No,12/9/2024 20:00
+Al,EDS,K series,0.88,0.00499,1.38,0.02,1.64,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,2.03,0.0105,2.13,0.02,2.43,,,,Forsterite,No,12/9/2024 20:00
+Ca,EDS,K series,0.08,0.00065,0.07,0.01,0.05,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,1.03,0.00943,0.97,0.02,0.65,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,58.24,0.5294,57.52,0.09,33.07,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,93.39,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_20,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,28.06,0.12887,28.72,0.08,59.81,,,,Fayalite,No,12/18/2024 21:31
+Mg,EDS,K series,0.74,0.00429,1.62,0.02,2.22,,,,Forsterite,No,12/9/2024 20:00
+Al,EDS,K series,1.01,0.00569,1.56,0.02,1.92,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,2.51,0.01301,2.63,0.02,3.12,,,,Forsterite,No,12/9/2024 20:00
+Cl,EDS,K series,0.07,0.00064,0.08,0.01,0.08,,,,NaCl,Yes,
+K,EDS,K series,0.05,0.00038,0.04,0.01,0.04,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,0.09,0.00075,0.08,0.01,0.06,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,1.37,0.01262,1.31,0.02,0.91,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,53.87,0.48971,53.38,0.09,31.84,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,89.42,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_21,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,32.32,0.14842,28.63,0.07,59.88,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,0.6,0.00313,0.64,0.02,0.76,,,,Forsterite,No,12/9/2024 20:00
+Fe,EDS,K series,67.43,0.61297,65.68,0.1,39.36,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,94.96,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_22,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,32.1,0.1474,28.45,0.07,59.75,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.09,0.0005,0.14,0.02,0.18,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,0.52,0.00268,0.55,0.01,0.66,,,,Forsterite,No,12/9/2024 20:00
+Fe,EDS,K series,67.28,0.61156,65.52,0.1,39.42,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,94.66,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_23,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,30.15,0.13845,29.83,0.08,59.63,,,,Fayalite,No,12/18/2024 21:31
+Mg,EDS,K series,0.63,0.00366,1.4,0.02,1.84,,,,Forsterite,No,12/9/2024 20:00
+Al,EDS,K series,1.1,0.00622,1.71,0.02,2.03,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,2.36,0.01224,2.48,0.02,2.83,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.1,0.00082,0.09,0.01,0.07,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,0.09,0.00076,0.08,0.01,0.06,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.92,0.00842,0.87,0.02,0.58,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,58.26,0.52963,57.56,0.09,32.96,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,94.03,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_24,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,30.19,0.13866,27.93,0.07,59.53,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.46,0.00262,0.74,0.02,0.93,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.11,0.00577,1.18,0.02,1.43,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.04,0.0003,0.03,0.01,0.03,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,0.05,0.00041,0.04,0.01,0.04,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.22,0.00201,0.2,0.01,0.14,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.13,0.0013,0.13,0.01,0.08,,,,V,Yes,
+Fe,EDS,K series,63.36,0.57593,61.92,0.1,37.81,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,92.17,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_25,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,25.74,0.11819,24.83,0.07,56.77,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.34,0.00192,0.54,0.02,0.74,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.08,0.00561,1.15,0.02,1.5,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.11,0.00091,0.1,0.01,0.09,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,0.08,0.0007,0.07,0.01,0.06,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.69,0.00633,0.64,0.02,0.49,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.08,0.00079,0.08,0.01,0.05,,,,V,Yes,
+Fe,EDS,K series,63.22,0.57472,61.52,0.1,40.29,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,88.93,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_26,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,28.24,0.12969,27.56,0.07,58.86,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.46,0.00258,0.72,0.02,0.91,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.59,0.00822,1.67,0.02,2.03,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.23,0.00186,0.2,0.01,0.18,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,0.08,0.00065,0.07,0.01,0.06,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.79,0.00729,0.74,0.02,0.53,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.12,0.00124,0.12,0.01,0.08,,,,V,Yes,
+Fe,EDS,K series,62.36,0.56683,61.04,0.1,37.35,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,92.12,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_27,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,28.43,0.13056,28.28,0.07,58.85,,,,Fayalite,No,12/18/2024 21:31
+Mg,EDS,K series,0.74,0.00429,1.65,0.02,2.26,,,,Forsterite,No,12/9/2024 20:00
+Al,EDS,K series,0.84,0.00474,1.32,0.02,1.63,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,2.1,0.01087,2.21,0.02,2.62,,,,Forsterite,No,12/9/2024 20:00
+Ca,EDS,K series,0.07,0.00061,0.06,0.01,0.05,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,1.1,0.01012,1.04,0.02,0.72,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,57.61,0.52365,56.8,0.09,33.87,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,91.36,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_28,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,27.02,0.1241,27.53,0.07,58.74,,,,Fayalite,No,12/18/2024 21:31
+Mg,EDS,K series,0.56,0.00324,1.24,0.02,1.74,,,,Forsterite,No,12/9/2024 20:00
+Al,EDS,K series,0.85,0.00484,1.33,0.02,1.69,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,2.42,0.01253,2.54,0.02,3.08,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.17,0.00132,0.15,0.01,0.13,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,0.08,0.00069,0.07,0.01,0.06,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,1.24,0.01145,1.18,0.02,0.84,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,55.9,0.50817,55.16,0.09,33.72,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,89.19,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_29,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,26.84,0.12324,26.6,0.07,58.29,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.39,0.0022,0.62,0.02,0.81,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.13,0.00586,1.19,0.02,1.49,,,,Forsterite,No,12/9/2024 20:00
+Ca,EDS,K series,0.11,0.00098,0.1,0.01,0.09,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,1.23,0.01132,1.15,0.02,0.84,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.18,0.00179,0.17,0.02,0.12,,,,V,Yes,
+Fe,EDS,K series,62.56,0.56871,61.13,0.1,38.37,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,90.96,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_30,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,31.22,0.14336,28.74,0.07,59.83,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,2.76,0.0143,2.87,0.02,3.41,,,,Forsterite,No,12/9/2024 20:00
+Ti,EDS,K series,0.04,0.00041,0.04,0.01,0.03,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,62.87,0.57148,61.6,0.1,36.73,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,93.26,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_31,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,28.69,0.13173,28.55,0.07,56.57,,,,Fayalite,No,12/18/2024 21:31
+Mg,EDS,K series,1.35,0.0078,2.97,0.03,3.88,,,,Forsterite,No,12/9/2024 20:00
+Al,EDS,K series,1.19,0.00672,1.88,0.02,2.21,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,2.06,0.01067,2.2,0.02,2.48,,,,Forsterite,No,12/9/2024 20:00
+Ti,EDS,K series,0.85,0.00782,0.8,0.02,0.53,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.08,0.00079,0.08,0.01,0.05,,,,V,Yes,
+Fe,EDS,K series,61.31,0.55731,60.38,0.1,34.28,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,96.86,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_32,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,26.47,0.12157,24.92,0.07,57.01,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.44,0.0025,0.71,0.02,0.96,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.1,0.00573,1.18,0.02,1.53,,,,Forsterite,No,12/9/2024 20:00
+Ca,EDS,K series,0.06,0.0005,0.05,0.01,0.05,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.33,0.003,0.3,0.01,0.23,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.1,0.00103,0.1,0.01,0.07,,,,V,Yes,
+Fe,EDS,K series,62.97,0.57243,61.27,0.1,40.15,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,88.53,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_33,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,30.71,0.14101,27.41,0.07,58.88,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,0.74,0.00385,0.79,0.02,0.96,,,,Forsterite,No,12/9/2024 20:00
+Fe,EDS,K series,67.1,0.60995,65.26,0.1,40.16,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,93.46,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_34,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,25.7,0.11801,26.66,0.07,57.81,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,1.11,0.00626,1.7,0.02,2.19,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,3.09,0.01604,3.23,0.02,3.99,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.67,0.0053,0.59,0.01,0.52,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,0.12,0.00106,0.11,0.01,0.1,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.78,0.00714,0.74,0.02,0.53,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.09,0.0009,0.09,0.01,0.06,,,,V,Yes,
+Fe,EDS,K series,56.88,0.51708,56.01,0.09,34.8,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,89.12,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_35,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,29.09,0.13357,29.72,0.08,58.85,,,,Fayalite,No,12/18/2024 21:31
+Mg,EDS,K series,1.53,0.00883,3.23,0.03,4.22,,,,Forsterite,No,12/9/2024 20:00
+Al,EDS,K series,1.44,0.00815,2.22,0.02,2.61,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,3.31,0.01716,3.48,0.02,3.93,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.05,0.00043,0.05,0.01,0.04,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,0.11,0.00093,0.1,0.01,0.08,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.92,0.00848,0.89,0.02,0.59,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,52.58,0.47793,52.34,0.09,29.69,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,92.03,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_36,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,29.05,0.13341,26.92,0.07,58.48,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.08,0.00044,0.13,0.01,0.16,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,0.27,0.00139,0.29,0.01,0.35,,,,Forsterite,No,12/9/2024 20:00
+Ti,EDS,K series,0.74,0.00681,0.68,0.02,0.5,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,66.96,0.60865,65.1,0.1,40.51,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,93.12,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_37,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,27.39,0.1258,27.85,0.08,58.57,,,,Fayalite,No,12/18/2024 21:31
+Mg,EDS,K series,0.59,0.00343,1.32,0.02,1.83,,,,Forsterite,No,12/9/2024 20:00
+Al,EDS,K series,0.87,0.00495,1.37,0.02,1.71,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,2.11,0.01091,2.22,0.02,2.66,,,,Forsterite,No,12/9/2024 20:00
+Ca,EDS,K series,0.05,0.00047,0.05,0.01,0.04,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,1.38,0.01265,1.3,0.02,0.91,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.09,0.00088,0.09,0.01,0.06,,,,V,Yes,
+Fe,EDS,K series,57.65,0.52405,56.81,0.09,34.23,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,91.01,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_38,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,28.29,0.12992,26.79,0.07,58.66,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.58,0.00331,0.93,0.02,1.21,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.42,0.00736,1.5,0.02,1.87,,,,Forsterite,No,12/9/2024 20:00
+Ca,EDS,K series,0.07,0.00059,0.06,0.01,0.05,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.48,0.00438,0.44,0.01,0.32,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.07,0.00073,0.07,0.01,0.05,,,,V,Yes,
+Fe,EDS,K series,61.71,0.56092,60.32,0.1,37.84,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,90.11,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_39,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,33.03,0.15169,29.03,0.07,60.34,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,0.27,0.0014,0.29,0.01,0.34,,,,Forsterite,No,12/9/2024 20:00
+Fe,EDS,K series,67.81,0.61638,66.05,0.1,39.32,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,95.36,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_40,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,30.44,0.13977,27.13,0.07,58.73,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.04,0.00025,0.07,0.01,0.09,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,0.16,0.00083,0.17,0.01,0.21,,,,Forsterite,No,12/9/2024 20:00
+Ti,EDS,K series,0.12,0.00111,0.11,0.01,0.08,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,67.9,0.61717,65.94,0.1,40.89,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,93.42,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_41,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,38.24,0.17559,33.13,0.07,66.26,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.29,0.00165,0.46,0.02,0.54,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,0.95,0.00493,0.99,0.02,1.13,,,,Forsterite,No,12/9/2024 20:00
+P,EDS,K series,0.17,0.00138,0.23,0.01,0.24,,,,Chlorapatite,No,12/9/2024 20:13
+Fe,EDS,K series,56.12,0.51017,55.56,0.09,31.84,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,90.36,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_42,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,25.56,0.11736,25.07,0.07,56.93,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.58,0.00327,0.92,0.02,1.24,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.45,0.00752,1.54,0.02,1.99,,,,Forsterite,No,12/9/2024 20:00
+Ca,EDS,K series,0.11,0.00096,0.1,0.01,0.09,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.96,0.00883,0.89,0.02,0.68,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,61.57,0.5597,60.06,0.1,39.08,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,88.58,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_43,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,30.33,0.13926,27.1,0.07,58.52,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,0.45,0.00235,0.48,0.01,0.59,,,,Forsterite,No,12/9/2024 20:00
+Ti,EDS,K series,0.07,0.00064,0.06,0.01,0.05,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,67.96,0.61779,66.01,0.1,40.84,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,93.66,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_44,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,29.62,0.13601,27.39,0.07,58.9,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.35,0.00197,0.56,0.02,0.71,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.1,0.00569,1.16,0.02,1.42,,,,Forsterite,No,12/9/2024 20:00
+P,EDS,K series,0.07,0.00057,0.1,0.01,0.11,,,,Chlorapatite,No,12/9/2024 20:13
+Ca,EDS,K series,0.1,0.00089,0.09,0.01,0.08,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.22,0.00201,0.2,0.01,0.15,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.06,0.00059,0.06,0.01,0.04,,,,V,Yes,
+Fe,EDS,K series,64.22,0.58377,62.67,0.1,38.6,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,92.22,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_45,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,36.65,0.16832,31.58,0.07,65.26,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,0.75,0.0039,0.78,0.01,0.92,,,,Forsterite,No,12/9/2024 20:00
+Fe,EDS,K series,57.96,0.5269,57.12,0.09,33.82,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,89.48,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_46,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,28.02,0.12866,26.78,0.07,58.41,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.45,0.00256,0.72,0.02,0.93,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.24,0.00641,1.31,0.02,1.62,,,,Forsterite,No,12/9/2024 20:00
+Ca,EDS,K series,0.09,0.00078,0.08,0.01,0.07,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.66,0.00609,0.62,0.02,0.45,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.11,0.0011,0.11,0.01,0.07,,,,V,Yes,
+Fe,EDS,K series,63.01,0.57274,61.52,0.1,38.44,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,91.14,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_47,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,27.3,0.12534,26.7,0.07,57.62,,,,Fayalite,No,12/18/2024 21:31
+Mg,EDS,K series,0.51,0.00293,1.14,0.02,1.63,,,,Forsterite,No,12/9/2024 20:00
+Al,EDS,K series,0.7,0.00398,1.11,0.02,1.42,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.96,0.01014,2.07,0.02,2.54,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.05,0.00039,0.04,0.01,0.04,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,0.09,0.00078,0.08,0.01,0.07,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.66,0.00604,0.62,0.02,0.44,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.07,0.00071,0.07,0.01,0.05,,,,V,Yes,
+Mn,EDS,K series,0.23,0.00221,0.24,0.02,0.15,,,,MnO,No,12/9/2024 20:20
+Fe,EDS,K series,59.42,0.54009,58.29,0.09,36.04,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,90.37,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_48,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,31.7,0.14559,27.95,0.07,59.46,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,0.18,0.00094,0.19,0.01,0.23,,,,Forsterite,No,12/9/2024 20:00
+Fe,EDS,K series,68.03,0.61843,66.14,0.1,40.31,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,94.29,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_49,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,28.8,0.13227,28.12,0.07,59.1,,,,Fayalite,No,12/18/2024 21:31
+Mg,EDS,K series,0.41,0.00237,0.93,0.02,1.28,,,,Forsterite,No,12/9/2024 20:00
+Al,EDS,K series,0.67,0.0038,1.06,0.02,1.32,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.79,0.0093,1.89,0.02,2.26,,,,Forsterite,No,12/9/2024 20:00
+Ca,EDS,K series,0.09,0.00073,0.08,0.01,0.06,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.86,0.0079,0.81,0.02,0.57,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.08,0.00085,0.08,0.01,0.05,,,,V,Yes,
+Fe,EDS,K series,59.73,0.54299,58.71,0.09,35.35,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,91.67,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_50,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,34.01,0.15616,30.15,0.07,61.22,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,0.49,0.00252,0.51,0.01,0.59,,,,Forsterite,No,12/9/2024 20:00
+Ca,EDS,K series,0.04,0.00035,0.04,0.01,0.03,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.14,0.00132,0.13,0.01,0.09,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,67.03,0.6093,65.46,0.1,38.07,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,96.3,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_51,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,27.46,0.12611,26.27,0.07,57.78,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.41,0.00233,0.66,0.02,0.86,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.15,0.00594,1.21,0.02,1.52,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.24,0.00194,0.21,0.01,0.19,,,,Orthoclase,No,12/9/2024 20:17
+Ti,EDS,K series,0.69,0.00631,0.64,0.02,0.47,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,63.77,0.57966,62.18,0.1,39.18,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,91.17,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_52,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,25.98,0.11932,25.34,0.07,57.44,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.42,0.00236,0.67,0.02,0.9,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.21,0.00628,1.28,0.02,1.66,,,,Forsterite,No,12/9/2024 20:00
+Ca,EDS,K series,0.07,0.00063,0.06,0.01,0.06,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.97,0.0089,0.9,0.02,0.68,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.07,0.00069,0.07,0.01,0.05,,,,V,Yes,
+Fe,EDS,K series,61.93,0.56293,60.39,0.1,39.22,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,88.71,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_53,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,36.49,0.16757,31.4,0.07,65.32,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,0.6,0.00312,0.63,0.01,0.74,,,,Forsterite,No,12/9/2024 20:00
+P,EDS,K series,0.07,0.00054,0.09,0.01,0.1,,,,Chlorapatite,No,12/9/2024 20:13
+Fe,EDS,K series,57.64,0.52391,56.79,0.09,33.84,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,88.91,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_54,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,30.37,0.13947,26.92,0.07,58.56,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,0.22,0.00116,0.24,0.01,0.29,,,,Forsterite,No,12/9/2024 20:00
+Fe,EDS,K series,68.04,0.61845,66.04,0.1,41.15,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,93.2,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_55,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,23.09,0.10604,24.89,0.07,54.78,,,,Fayalite,No,12/18/2024 21:31
+Mg,EDS,K series,1.64,0.00948,3.44,0.03,4.98,,,,Forsterite,No,12/9/2024 20:00
+Al,EDS,K series,1.59,0.00901,2.45,0.02,3.2,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,3.97,0.0206,4.2,0.02,5.27,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.08,0.00061,0.07,0.01,0.06,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,0.12,0.00101,0.11,0.01,0.09,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.94,0.00869,0.91,0.02,0.67,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.08,0.00078,0.08,0.01,0.05,,,,V,Yes,
+Mn,EDS,K series,0.3,0.00286,0.32,0.02,0.2,,,,MnO,No,12/9/2024 20:20
+Fe,EDS,K series,49.03,0.44568,48.67,0.09,30.69,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,85.13,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_56,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,29.77,0.13672,28.07,0.07,59.61,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.53,0.003,0.84,0.02,1.06,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.38,0.00716,1.46,0.02,1.76,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.08,0.00061,0.07,0.01,0.06,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,0.06,0.00048,0.05,0.01,0.04,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.45,0.00414,0.42,0.01,0.3,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.11,0.00107,0.1,0.01,0.07,,,,V,Yes,
+Fe,EDS,K series,62.3,0.5663,60.99,0.1,37.1,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,92,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_57,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,30.4,0.1396,27.2,0.07,58.67,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,0.4,0.00208,0.43,0.01,0.52,,,,Forsterite,No,12/9/2024 20:00
+Ti,EDS,K series,0.12,0.00112,0.11,0.01,0.08,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,67.83,0.61657,65.9,0.1,40.72,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,93.64,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_58,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,30.23,0.13883,28.76,0.07,59.8,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.49,0.00278,0.78,0.02,0.96,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.09,0.00566,1.15,0.02,1.37,,,,Forsterite,No,12/9/2024 20:00
+Ca,EDS,K series,0.07,0.00056,0.06,0.01,0.05,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.69,0.00633,0.64,0.02,0.45,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.2,0.00202,0.2,0.01,0.13,,,,V,Yes,
+Fe,EDS,K series,63.89,0.58075,62.53,0.1,37.25,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,94.12,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_59,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,28.11,0.12909,26.55,0.07,58.19,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.33,0.00185,0.52,0.02,0.68,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,0.88,0.00458,0.94,0.02,1.17,,,,Forsterite,No,12/9/2024 20:00
+Ca,EDS,K series,0.1,0.00084,0.09,0.01,0.07,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.46,0.00421,0.42,0.01,0.31,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.2,0.00204,0.2,0.01,0.14,,,,V,Yes,
+Fe,EDS,K series,64.47,0.586,62.82,0.1,39.44,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,91.54,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_60,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,37.64,0.17287,32.6,0.07,65.81,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,0.87,0.00453,0.91,0.02,1.04,,,,Forsterite,No,12/9/2024 20:00
+P,EDS,K series,0.05,0.00041,0.07,0.01,0.07,,,,Chlorapatite,No,12/9/2024 20:13
+Ca,EDS,K series,0.1,0.00084,0.09,0.01,0.07,,,,Diopside,No,12/9/2024 20:18
+Fe,EDS,K series,57.81,0.52547,57.08,0.09,33.01,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,90.74,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_61,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,30.73,0.14113,27.43,0.07,58.9,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,0.41,0.00215,0.44,0.01,0.54,,,,Forsterite,No,12/9/2024 20:00
+V,EDS,K series,0.08,0.00081,0.08,0.01,0.05,,,,V,Yes,
+Fe,EDS,K series,67.75,0.61587,65.85,0.1,40.51,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,93.8,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_62,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,27.8,0.12765,25.74,0.07,58.48,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,1.91,0.00993,2.01,0.02,2.6,,,,Forsterite,No,12/9/2024 20:00
+V,EDS,K series,0.18,0.00181,0.18,0.01,0.13,,,,V,Yes,
+Fe,EDS,K series,61.08,0.55525,59.6,0.09,38.8,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,87.52,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_63,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,29.42,0.13509,28.16,0.07,59.89,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.35,0.00196,0.55,0.02,0.7,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.18,0.0061,1.24,0.02,1.5,,,,Forsterite,No,12/9/2024 20:00
+Ca,EDS,K series,0.13,0.00113,0.12,0.01,0.1,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.85,0.00786,0.8,0.02,0.57,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.09,0.00086,0.08,0.01,0.06,,,,V,Yes,
+Fe,EDS,K series,62.34,0.56666,61.03,0.1,37.19,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,91.98,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_64,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,26.72,0.12269,27.83,0.08,59.08,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.25,0.00139,0.39,0.02,0.49,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,0.76,0.00395,0.8,0.02,0.96,,,,Forsterite,No,12/9/2024 20:00
+P,EDS,K series,0.4,0.0032,0.54,0.01,0.59,,,,Chlorapatite,No,12/9/2024 20:13
+K,EDS,K series,0.05,0.00043,0.05,0.01,0.04,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,1.4,0.01202,1.22,0.01,1.04,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,1.18,0.01088,1.11,0.02,0.79,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,62.02,0.56376,60.83,0.1,37,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,92.77,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_65,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,26.68,0.12251,25.73,0.07,57.02,,,,Fayalite,No,12/18/2024 21:31
+Mg,EDS,K series,0.38,0.00223,0.88,0.02,1.28,,,,Forsterite,No,12/9/2024 20:00
+Al,EDS,K series,0.59,0.00334,0.94,0.02,1.24,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.58,0.00819,1.68,0.02,2.12,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.06,0.00045,0.05,0.01,0.04,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,0.11,0.00091,0.09,0.01,0.08,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.42,0.00382,0.39,0.01,0.29,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.13,0.00126,0.12,0.01,0.09,,,,V,Yes,
+Fe,EDS,K series,60.98,0.5543,59.61,0.1,37.84,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,89.5,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_66,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,26.68,0.12251,25.73,0.07,57.02,,,,Fayalite,No,12/18/2024 21:31
+Mg,EDS,K series,0.38,0.00223,0.88,0.02,1.28,,,,Forsterite,No,12/9/2024 20:00
+Al,EDS,K series,0.59,0.00334,0.94,0.02,1.24,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,1.58,0.00819,1.68,0.02,2.12,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.06,0.00045,0.05,0.01,0.04,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,0.11,0.00091,0.09,0.01,0.08,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.42,0.00382,0.39,0.01,0.29,,,,TiO2,No,12/9/2024 20:22
+V,EDS,K series,0.13,0.00126,0.12,0.01,0.09,,,,V,Yes,
+Fe,EDS,K series,60.98,0.5543,59.61,0.1,37.84,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,89.5,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_67,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,30.12,0.13833,26.78,0.07,58.43,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,0.35,0.0018,0.37,0.01,0.46,,,,Forsterite,No,12/9/2024 20:00
+Fe,EDS,K series,67.75,0.61587,65.77,0.1,41.11,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,92.92,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_68,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,27.75,0.12745,27.53,0.07,58.27,,,,Fayalite,No,12/18/2024 21:31
+Mg,EDS,K series,0.6,0.00348,1.35,0.02,1.87,,,,Forsterite,No,12/9/2024 20:00
+Al,EDS,K series,0.82,0.00466,1.3,0.02,1.63,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,2.07,0.01071,2.18,0.02,2.63,,,,Forsterite,No,12/9/2024 20:00
+K,EDS,K series,0.05,0.00042,0.05,0.01,0.04,,,,Orthoclase,No,12/9/2024 20:17
+Ca,EDS,K series,0.08,0.00071,0.07,0.01,0.06,,,,Diopside,No,12/9/2024 20:18
+Ti,EDS,K series,0.97,0.00896,0.92,0.02,0.65,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,58.41,0.53098,57.47,0.09,34.85,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,90.87,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_69,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,30.29,0.13909,26.86,0.07,58.54,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,0.25,0.0013,0.27,0.01,0.33,,,,Forsterite,No,12/9/2024 20:00
+Fe,EDS,K series,67.86,0.61685,65.87,0.1,41.12,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,93,,100,,,,,,
+,,,,,,,,,,,,,
+LRa02_grain_70,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,30.29,0.13909,26.86,0.07,58.54,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,0.25,0.0013,0.27,0.01,0.33,,,,Forsterite,No,12/9/2024 20:00
+Fe,EDS,K series,67.86,0.61685,65.87,0.1,41.12,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,93,,100,,,,,,
+,,,,,,,,,,,,,
+Goethite_03,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,40.73,0.18702,35.58,0.07,67.98,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.12,0.00067,0.18,0.01,0.21,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,0.38,0.00196,0.39,0.01,0.42,,,,Forsterite,No,12/9/2024 20:00
+P,EDS,K series,1.15,0.00911,1.5,0.02,1.48,,,,Chlorapatite,No,12/9/2024 20:13
+Ca,EDS,K series,0.13,0.00115,0.12,0.01,0.09,,,,Diopside,No,12/9/2024 20:18
+Fe,EDS,K series,54.75,0.4977,54.47,0.09,29.81,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,92.24,,100,,,,,,
+,,,,,,,,,,,,,
+Goethite_04,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,40.44,0.1857,35.35,0.07,67.81,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.11,0.0006,0.16,0.01,0.19,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,0.38,0.00199,0.39,0.01,0.43,,,,Forsterite,No,12/9/2024 20:00
+P,EDS,K series,1.13,0.00897,1.48,0.02,1.47,,,,Chlorapatite,No,12/9/2024 20:13
+Ca,EDS,K series,0.13,0.00111,0.11,0.01,0.09,,,,Diopside,No,12/9/2024 20:18
+Fe,EDS,K series,54.94,0.49943,54.63,0.09,30.02,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,92.13,,100,,,,,,
+,,,,,,,,,,,,,
+Hematite_Elba_03,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,31.57,0.14498,27.82,0.07,59.12,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,0.05,0.00026,0.05,0.01,0.07,,,,Forsterite,No,12/9/2024 20:00
+Fe,EDS,K series,69.04,0.62762,67.05,0.1,40.82,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,94.93,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Hematite_Elba_04,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,31.64,0.14529,27.88,0.07,59.15,,,,Fayalite,No,12/18/2024 21:31
+Si,EDS,K series,0.05,0.00025,0.05,0.01,0.06,,,,Forsterite,No,12/9/2024 20:00
+Fe,EDS,K series,69.09,0.62806,67.1,0.1,40.79,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,95.03,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Magnetite_oxpuck_03,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,29.21,0.13412,26.17,0.07,56.74,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.1,0.00059,0.17,0.02,0.22,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,0.07,0.00038,0.08,0.01,0.1,,,,Forsterite,No,12/9/2024 20:00
+Ti,EDS,K series,0.05,0.00047,0.05,0.01,0.03,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,71.39,0.64896,69.07,0.1,42.91,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,95.53,,100,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Magnetite_oxpuck_04,,,,,,,,,,,,,
+Element,Signal Type,Line,Apparent Concentration,k Ratio,Wt%,Wt% Sigma,Atomic %,Oxide %,Oxide % Sigma,Number of Ions,Standard Name,Factory Standard,Standardization Date
+O,EDS,K series,29.42,0.13508,26.36,0.07,56.93,,,,Fayalite,No,12/18/2024 21:31
+Al,EDS,K series,0.12,0.00067,0.19,0.02,0.25,,,,Nepheline,No,12/9/2024 21:18
+Si,EDS,K series,0.06,0.00031,0.06,0.01,0.08,,,,Forsterite,No,12/9/2024 20:00
+Ti,EDS,K series,0.07,0.00062,0.06,0.01,0.04,,,,TiO2,No,12/9/2024 20:22
+Fe,EDS,K series,71.31,0.64824,69.02,0.1,42.7,,,,Fayalite,No,12/18/2024 21:31
+Total,,,,,95.69,,100,,,,,,
